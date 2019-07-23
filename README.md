@@ -9,14 +9,14 @@ Each players make one move each time they play
 
     Human players can choose to :
 
-        - Heal
-        - Look for a better weapon
+        - Health Pack
+        - Look for a better weapon (Tatane)
         - Attack one of the bots
 
     Bots can only attack
 
 The last team that lives wins, FIGHT !
 
-Hope you enjoy :clin_d'œil:
+Hope you enjoy ;)
 
 Made by RCC and VH
